@@ -2,21 +2,25 @@
 <p align="center">🚀 Software Developer | React Native Specialist</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/Lux-NUfRMexXUNXom4NuA-removebg-preview.png" width="500px" />
+  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/Lux-NUfRMexXUNXom4NuA-removebg-preview.png" width="300px" />
 </div>
 
 ## 🧐 About Me  
 <table>
   <tr>
     <td width="60%">
-      <ul>
-        <li>I'm a <b>React Native Developer</b> with expertise in mobile app development.</li>
-        <li>Strong knowledge of <b>React, TypeScript, Firebase, SQLite, Java & XML</b>.</li>
-        <li>Passionate about <b>UI/UX optimization, API integrations, and performance tuning</b>.</li>
-      </ul>
+      <p>
+        I’m a <b>React Native Developer</b> with a passion for building high-performance and visually appealing mobile apps.  
+        My core expertise lies in <b>React Native</b>, but I also have strong experience in <b>HTML, CSS, JavaScript, and React</b> for frontend development.  
+        Additionally, I have experience with <b>Java and XML</b> for native Android development.  
+        <br><br>
+        🔥 I specialize in <b>UI/UX optimization, API integrations, and performance tuning</b>.  
+        💾 For backend and database management, I work with <b>Firebase</b> and <b>SQLite</b> to ensure smooth data handling.  
+        🚀 Always exploring new tech to build innovative and user-friendly applications!
+      </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:50%; overflow:hidden;" />
+      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:50%;" />
     </td>
   </tr>
 </table>
