@@ -9,8 +9,9 @@
 <table>
   <tr>
     <td width="60%">
-      🔹 I'm a <b>React Native Developer</b> with expertise in mobile app development.  
-      🔹 Strong knowledge of <b>React, TypeScript, Firebase, SQLite, Java & XML</b>.  
+      🔹 I'm a <b>React Native Developer</b> with expertise in mobile app development.  <br/>
+      
+      🔹 Strong knowledge of <b>React, TypeScript, Firebase, SQLite, Java & XML</b>.  <
       🔹 Passionate about <b>UI/UX optimization, API integrations, and performance tuning</b>.  
     </td>
     <td width="40%">
