@@ -6,13 +6,18 @@
 </div>
 
 ## 🧐 About Me  
-🔹 I'm a **React Native Developer** with expertise in mobile app development.  
-🔹 Strong knowledge of **React, TypeScript, Firebase, SQLite, Java & XML**.  
-🔹 Passionate about **UI/UX optimization, API integrations, and performance tuning**.  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="250px" />
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      🔹 I'm a **React Native Developer** with expertise in mobile app development.  
+      🔹 Strong knowledge of **React, TypeScript, Firebase, SQLite, Java & XML**.  
+      🔹 Passionate about **UI/UX optimization, API integrations, and performance tuning**.  
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:50%;" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tech Stack
 - ⚛ **React Native**
