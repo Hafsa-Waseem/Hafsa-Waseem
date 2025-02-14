@@ -10,11 +10,11 @@
   <tr>
     <td width="60%">
       🔹 I'm a <b>React Native Developer</b> with expertise in mobile app development.  
-      🔹 Strong knowledge of **React, TypeScript, Firebase, SQLite, Java & XML**.  
-      🔹 Passionate about **UI/UX optimization, API integrations, and performance tuning**.  
+      🔹 Strong knowledge of <b>React, TypeScript, Firebase, SQLite, Java & XML</b>.  
+      🔹 Passionate about <b>UI/UX optimization, API integrations, and performance tuning</b>.  
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:50%;" />
+      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:80%;" />
     </td>
   </tr>
 </table>
