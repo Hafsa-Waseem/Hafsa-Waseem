@@ -10,6 +10,10 @@
 🔹 Strong knowledge of **React, TypeScript, Firebase, SQLite, Java & XML**.  
 🔹 Passionate about **UI/UX optimization, API integrations, and performance tuning**.  
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="250px" />
+</div>
+
 ## 🚀 Tech Stack
 - ⚛ **React Native**
 - 💙 **TypeScript**
@@ -30,4 +34,3 @@
 ---
 
 ✨ **Fun Fact:** *"I talk to my code more than I talk to people!"* 😆  
-
