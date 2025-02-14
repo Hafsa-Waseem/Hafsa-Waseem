@@ -2,7 +2,7 @@
 <p align="center">🚀 Software Developer | React Native Specialist</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/Lux-NUfRMexXUNXom4NuA-removebg-preview.png" width="700px" />
+  <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/Lux-NUfRMexXUNXom4NuA-removebg-preview.png" width="600px" />
 </div>
 
 ## 🧐 About Me  
