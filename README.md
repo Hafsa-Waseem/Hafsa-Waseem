@@ -14,7 +14,7 @@
       🔹 Passionate about <b>UI/UX optimization, API integrations, and performance tuning</b>. 
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/HafsaWaseem/main/UJDtpl8tScW7tR8zR7dagw.png" width="150px" style="border-radius:80%;" />
+      <img src="https://raw.githubusercontent.com/Hafsa-Waseem/Hafsa-Waseem/main/image_2025_02_15T17_52_08_223Z.png" width="150px" style="border-radius:80%;" />
     </td>
   </tr>
 </table>
